@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Roboto+Mono:wght@400;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); */@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 /* *{
     padding: 0px;
     margin: 0px;
@@ -9,7 +9,7 @@ body{background-color: rgb(250, 242, 242);
     /* font-size: 16px;
     font-weight: normal;
     font-family: 'Roboto Mono', monospace; */
-    font: normal 16px Monsterrat;
+    font: 200 16px "Times New Roman";
     /* font-family: cursive; */
 }
   a{ color: rgb(117, 39, 91);
