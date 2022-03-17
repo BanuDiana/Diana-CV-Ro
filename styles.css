@@ -9,7 +9,7 @@ body{background-color: rgb(250, 242, 242);
     /* font-size: 16px;
     font-weight: normal;
     font-family: 'Roboto Mono', monospace; */
-    font: normal 16px fantasy;
+    font: normal 16px Monsterrat;
     /* font-family: cursive; */
 }
   a{ color: rgb(117, 39, 91);
@@ -48,22 +48,24 @@ a:active{
 
 
 .fotka{
-    height: 370px;
-    width: 165px;
-    border-radius: 30px;
+    height: 340px;
+    width: 150px;
+    border-radius: 25px;
     /* box-shadow: 4px 4px 14px rgb(rgb(0, 0, 0), rgb(15, 15, 15), rgb(26, 26, 27)); */
-    box-shadow: 4px 4px 14px #010701ea;
+    box-shadow: 4px 4px 14px #524363ea;
 
 }
 .info p{
-    color:#86898f;
+    color:#56585c;
     margin: 0;
     font-style: italic;
     font-weight: bold;
     text-decoration: none;
+    line-height: 2;
+   
     /* text-transform: uppercase; */
     /* letter-spacing: 5px; */
-    /* word-spacing: 15px; */
+    /*word-spacing: 15px; */
 }
 /* Box Model */
 .container{
